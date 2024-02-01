@@ -43,7 +43,8 @@ require('./includes/header.php');
                   <div class="container">
                         <div class="carousel-caption text-end">
                               <h1 class="text-uppercase">Web Acedimeya.</h1>
-                              <p class="text-xl-end">Astrum IT Akademiyasida siz sifatli ta'lim olishingiz va sohani puxta egallashingiz
+                              <p class="text-xl-end">Astrum IT Akademiyasida siz sifatli ta'lim olishingiz va sohani
+                                    puxta egallashingiz
                                     uchun eng kuchli va katta tajribaga ega mentorlar yordam berishadi.</p>
                               <p><a class="btn btn-lg btn-primary" href="#">Batafsil</a></p>
                         </div>
@@ -52,11 +53,11 @@ require('./includes/header.php');
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#myCarousel" data-bs-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Previous</span>
+            <span class="visually-hidden"></span>
       </button>
       <button class="carousel-control-next" type="button" data-bs-target="#myCarousel" data-bs-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="visually-hidden">Next</span>
+            <span class="visually-hidden"></span>
       </button>
 </div>
 
@@ -65,37 +66,31 @@ require('./includes/header.php');
       <!-- Three columns of text below the carousel -->
       <div class="row">
             <div class="col-lg-4">
-                  <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
-                        xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder"
-                        preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
+                  <img src="./assets/img/user/user-1.png" alt="user">
+                  <title>Bektur Andarov</title>
+                  <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                   </svg>
-                  <h2 class="fw-normal">Heading</h2>
+                  <h2 class="fw-normal">Mentor</h2>
                   <p>Some representative placeholder content for the three columns of text below the
                         carousel. This is the first column.</p>
                   <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                  <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
-                        xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder"
-                        preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
+                  <img src="./assets/img/user/user-1.png" alt="user">
+                  <title>Bektur Andarov</title>
+                  <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                   </svg>
-                  <h2 class="fw-normal">Heading</h2>
+                  <h2 class="fw-normal">Mentor</h2>
                   <p>Another exciting bit of representative placeholder content. This time, we've moved on
                         to the second column.</p>
                   <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
             <div class="col-lg-4">
-                  <svg class="bd-placeholder-img rounded-circle" width="140" height="140"
-                        xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder"
-                        preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
+                  <img src="./assets/img/user/user-1.png" alt="user">
+                  <title>Bektur Andarov</title>
+                  <rect width="100%" height="100%" fill="var(--bs-secondary-color)" />
                   </svg>
-                  <h2 class="fw-normal">Heading</h2>
+                  <h2 class="fw-normal">Mentor</h2>
                   <p>And lastly this, the third column of representative placeholder content.</p>
                   <p><a class="btn btn-secondary" href="#">View details &raquo;</a></p>
             </div><!-- /.col-lg-4 -->
@@ -108,10 +103,14 @@ require('./includes/header.php');
 
       <div class="row featurette">
             <div class="col-md-7">
-                  <h2 class="featurette-heading fw-normal lh-1">First featurette heading. <span
-                              class="text-body-secondary">It’ll blow your mind.</span></h2>
-                  <p class="lead">Some great placeholder content for the first featurette here. Imagine some
-                        exciting prose here.</p>
+                  <h2 class="featurette-heading fw-normal lh-1">“Google” va “Yandeks”ga raqobatchi:
+                        <span class="text-body-secondary">o‘zbekistonlik
+                              dasturchilar o‘zbekcha tarjimon yaratishadi</span>
+                  </h2>
+                  <p class="lead">Endilikda yosh dasturchi yangi loyihalar ustida ish olib bormoqda. Sifatli “o‘zbekcha
+                        tarjimon” va “plagiat tekshiruvi”ni yaratish shular jumlasidan.
+                        Mamasaidov 23 yoshda. Inha universiteti bitiruvchisi. U o‘tgan yili jamoasi bilan President Tech
+                        Award tanlovida qatnashib, sun’iy intellekt yo‘nalishida birinchi o‘rinni qo‘lga kiritdi.</p>
             </div>
             <div class="col-md-5">
                   <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
