@@ -113,13 +113,7 @@ require('./includes/header.php');
                         Award tanlovida qatnashib, sun’iy intellekt yo‘nalishida birinchi o‘rinni qo‘lga kiritdi.</p>
             </div>
             <div class="col-md-5">
-                  <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-                        height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-                        preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%" y="50%"
-                              fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-                  </svg>
+                  <img src="./assets/img/post-imgs/img-1.png" width="500" height="500" alt="">
             </div>
       </div>
 
@@ -127,20 +121,17 @@ require('./includes/header.php');
 
       <div class="row featurette">
             <div class="col-md-7 order-md-2">
-                  <h2 class="featurette-heading fw-normal lh-1">Oh yeah, it’s that good. <span
-                              class="text-body-secondary">See for yourself.</span></h2>
-                  <p class="lead">Another featurette? Of course. More placeholder content here to give you
-                        an idea of how this layout would work with some actual real-world content in place.
+                  <h2 class="featurette-heading fw-normal lh-1">💸Ўзбекистонда барча мактабларга 51 млн сўмдан <span
+                              class="text-body-secondary">пул ажратилади, ўқувчилар эса уларни қаерга сарфлашни
+                              танлайдилар</span></h2>
+                  <p class="lead">Ижтимоий тармоқларда тарқалган ҳабарга кўра ушбу тартиб 2024/2025 ўқув йилидан бошлаб
+                        тажриба сифатида жорий этилиши режалаштирилган. Ажратилган маблағлардан фойдаланиш 5-11-синф
+                        ўқувчиларининг танлови асосида амалга оширилади.
                   </p>
             </div>
             <div class="col-md-5 order-md-1">
-                  <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-                        height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-                        preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%" y="50%"
-                              fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-                  </svg>
+                  <img src="./assets/img/post-imgs/img-2.png" width="450" height="400" alt="">
+
             </div>
       </div>
 
@@ -148,20 +139,16 @@ require('./includes/header.php');
 
       <div class="row featurette">
             <div class="col-md-7">
-                  <h2 class="featurette-heading fw-normal lh-1">And lastly, this one. <span
-                              class="text-body-secondary">Checkmate.</span></h2>
-                  <p class="lead">And yes, this is the last block of representative placeholder content.
-                        Again, not really intended to be actually read, simply here to give you a better
-                        view of what this would look like with some actual content. Your content.</p>
+                  <h2 class="featurette-heading fw-normal lh-1">❗️🦮<span class="text-body-secondary">Кўчада итни
+                              боғичсиз олиб юрганлар жаримага тортилади.
+                        </span></h2>
+                  <p class="lead">Итни сайр қилдирганда боғичи 2 метргача, жамоат жойларида эса 1 метргача узунликда
+                        бўлиши керак. Соат 22:00 дан 8:00 гача тинчликни сақлаш учун эгалари итининг вовиллашини олдини
+                        олиши керак. Ит ва мушук боқиш қоидаларини бузиш 680 минг сўмгача жаримага сабаб бўлади.</p>
             </div>
             <div class="col-md-5">
-                  <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500"
-                        height="500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: 500x500"
-                        preserveAspectRatio="xMidYMid slice" focusable="false">
-                        <title>Placeholder</title>
-                        <rect width="100%" height="100%" fill="var(--bs-secondary-bg)" /><text x="50%" y="50%"
-                              fill="var(--bs-secondary-color)" dy=".3em">500x500</text>
-                  </svg>
+                  <img src="./assets/img/post-imgs/img-3.png" width="500" height="500" alt="">
+
             </div>
       </div>
 
