@@ -28,7 +28,8 @@
                   <div class="text-end">
                         <a href="../includes/sign.php">
                               <button type="button" class="btn btn-outline-light me-2">Kirish</button></a>
-                        <button type="button" class="btn btn-warning">Ro'yxatdan o'tish</button>
+                        <a href="./createRegester.php"><button type="button" class="btn btn-warning">Ro'yxatdan
+                                    o'tish</button></a>
                   </div>
             </div>
       </div>
